@@ -126,8 +126,6 @@ class Library {
 
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-
         // Инициализация библиотеки
         Library library = new Library("Central Library", "123 Main Street");
 
